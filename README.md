@@ -94,5 +94,5 @@ This repository contains four data science tasks:
 ## Notes
 - Ensure datasets (`tested.csv`, `imdb.csv`, `creditcard.csv`, `housing.csv`) are in respective folders.
 - Adjust `house_price_prediction.py` target column if not 'price'.
-- Deadline: April 16, 2025.
+- Deadline: May 5, 2025.
 
