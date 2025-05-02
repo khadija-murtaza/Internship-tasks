@@ -96,5 +96,3 @@ This repository contains four data science tasks:
 - Adjust `house_price_prediction.py` target column if not 'price'.
 - Deadline: April 16, 2025.
 
-## Author
-MUHAMMAD AITSAM ZULFIQAR
